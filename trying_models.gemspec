@@ -9,9 +9,9 @@ Gem::Specification.new do |s|
   s.version     = TryingModels::VERSION
   s.authors     = ["Kiet Nguyen"]
   s.email       = ["kietdev38@gmail.com"]
-  s.homepage    = "TODO"
-  s.summary     = "acts_as_tryable"
-  s.description = "acts_as_tryable"
+  s.homepage    = "https://github.com/tuankiet/trying-models-plugin"
+  s.summary     = "Customize active_support instance methods to not raise error when call anomyous method name in instance variable"
+  s.description = "Customize active_support instance methods to not raise error when call anomyous method name in instance variable"
   s.license     = "MIT"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.rdoc"]
