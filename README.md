@@ -8,6 +8,10 @@ In this example, I create acts_as_tryable plugins follow [the Rails Guide Plugin
 
 Understand the `ActiveSupport::Concern` and deep undertood both `include` vs `extend`.
 
+# Bundle
+
+```gem install trying_models```
+
 # How
 
 Adding `acts_as_tryable` to your model file. Ex: app/models/article.rb
