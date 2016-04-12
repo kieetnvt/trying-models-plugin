@@ -39,4 +39,4 @@ Ex:
 # -> it replacement for `raise exception default make app crash`
 ```
 
-It not vere awesome, It basic, It show me how to understand `extend` `include` `attributes` `how active record work`
+It not very awesome, It basic and very Simple, It show me how to understand `extend` `include` `attributes` `how active record work`
